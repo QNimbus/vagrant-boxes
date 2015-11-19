@@ -1,0 +1,9 @@
+packer_cache
+packer.log
+.vagrant/
+
+*.iso
+*.box
+*.vdi
+*.ovf
+*.vmdk
